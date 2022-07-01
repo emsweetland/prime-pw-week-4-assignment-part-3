@@ -17,7 +17,8 @@ In this section we will write some functions that might be used in a simple cart
 ### Required Features
 Update the `cart.js` file to do the following:
 
-- Create a global variable named `basket` and set it to an empty array.
+- Create a global variable named `basket` and set it to an empty array. 
+          //global variables are created outside of a function
 
 - Create a function called `addItem`. It should:
   - take an input parameter for a string `item`
